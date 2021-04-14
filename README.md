@@ -1,4 +1,5 @@
 # Portifolio
+
 portifolio do desenvolvedor
 
 ## Tarefas
@@ -6,11 +7,11 @@ portifolio do desenvolvedor
 O controle das tareas desse projeto será realizado no GitHub
 ## Icones
 
-:package: Nova Funcionalidade
+- :package: Nova Funcionalidade
 
-:up: Atualização
+- :up: Atualização
 
-:beatle: Correção de Bugs
+- :beetle: Correção de Bugs
 
-:checkered_flag: Realease
+- :checkered_flag: Realease
 
